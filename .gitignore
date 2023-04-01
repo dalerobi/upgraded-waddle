@@ -95,7 +95,7 @@ dist
 .serverless/
 e2e
 # FuseBox cache
-.fusebox/
+.fusebox/busybody
 
 # DynamoDB Local files
 .dynamodb/sqldb/e2e
