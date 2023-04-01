@@ -93,12 +93,12 @@ dist
 
 # Serverless directories
 .serverless/
-
+e2e
 # FuseBox cache
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/sqldb
+.dynamodb/sqldb/e2e
 
 # TernJS port file
 .tern-port
